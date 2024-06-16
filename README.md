@@ -1,1 +1,1 @@
-"doc"
+Newspaper
